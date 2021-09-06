@@ -6,9 +6,7 @@ import { FaGithub } from 'react-icons/fa';
 import { FaTwitter } from 'react-icons/fa';
 import { FaLinkedin } from 'react-icons/fa';
 import { FaGlobe } from 'react-icons/fa';
-import { VscAccount } from "react-icons/vsc";
-import {VscLocation } from 'react-icons/vsc';
-import { VscMail } from 'react-icons/vsc';
+
 
 
 

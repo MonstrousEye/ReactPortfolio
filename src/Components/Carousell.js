@@ -1,7 +1,7 @@
 
 
 import {Carousel} from 'react-bootstrap';
-import {CarouselItem} from 'react-bootstrap';
+
 
 
 
